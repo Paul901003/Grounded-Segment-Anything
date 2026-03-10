@@ -131,5 +131,6 @@ dmypy.json
 # checkpoint
 *.pth
 outputs/
+test_images/
 
 .idea/
